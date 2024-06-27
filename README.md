@@ -1,3 +1,3 @@
 # pytorch-practicce
 
-personal practice notes
+personal practice notes of learning pytorch
